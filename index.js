@@ -60,7 +60,7 @@ function updateClockface({ days, hours, mins, seconds }) {
 }
 
 function markup() {
-  return `<h1 class='title'>I go to HOME <span>🥳</span></h1>
+  return `<h1 class='title'>I go  HOME <span>🥳</span></h1>
             <div class="field">
                 <span class="value" data-value="days">0</span>
                 <span class="label">Days</span>
